@@ -1,0 +1,36 @@
+body{
+  background-color: violet;
+}
+
+img{
+  float: right;
+}
+p{
+  font-size: 20px;
+}
+#caja1, #caja2, #caja3{
+  background-color: yellow;
+  color: red;
+  border: blue solid 5px;
+  width: 100px;
+  height: 50px;
+  margin: 0px;
+}
+
+#caja1{
+  float: right;
+  width: 200px;
+  height: 300px;
+}
+
+#caja2{
+  float: left;
+  width: 200px;
+  height: 300px;
+}
+
+#caja3{
+  float: left;
+  width: 200px;
+  height: 300px;
+}
